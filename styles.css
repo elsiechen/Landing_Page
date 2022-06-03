@@ -1,8 +1,10 @@
+
 .first {
     background-color: #1F2937;
     color: white;
     display: flex;
     flex-direction: column;
+    padding: 30px;
 }
 
 .navbar{
@@ -27,6 +29,8 @@ a:hover {
 
 ul {
     list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
 .button{
