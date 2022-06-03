@@ -10,6 +10,7 @@
 .navbar{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 50px;
 }
 
 .left ul, .right ul {
