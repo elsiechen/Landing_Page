@@ -12,3 +12,7 @@ a {
 a:hover {
     font-size: 30px;
 }
+
+ul {
+    list-style-type: none;
+}
