@@ -40,3 +40,14 @@ ul {
     border-radius: 10px;
 }
 
+.first-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.first-content img {
+    border-radius: 10px;
+}
+
+
