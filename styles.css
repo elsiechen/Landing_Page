@@ -50,6 +50,7 @@ ul {
 
 .first-content img {
     border-radius: 10px;
+    box-shadow: 5px 10px 8px #888888;
 }
 
 
