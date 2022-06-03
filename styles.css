@@ -1,6 +1,18 @@
 .first {
     background-color: #1F2937;
     color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left ul, .right ul {
+    display: flex;
+    gap: 15px;
 }
 
 a {
@@ -23,3 +35,4 @@ ul {
     border: none;
     border-radius: 10px;
 }
+
