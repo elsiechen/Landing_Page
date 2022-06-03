@@ -4,7 +4,7 @@
     color: white;
     display: flex;
     flex-direction: column;
-    padding: 30px;
+    padding: 60px;
 }
 
 .navbar{
@@ -42,8 +42,9 @@ ul {
 
 .first-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    gap: 50px
 }
 
 .first-content img {
