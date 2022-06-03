@@ -17,3 +17,9 @@ ul {
     list-style-type: none;
 }
 
+.button{
+    background-color: #3882F6;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 10px;
+}
