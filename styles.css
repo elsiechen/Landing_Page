@@ -149,6 +149,9 @@ ul {
     padding: 8px 16px;
     border: 2px solid white;
     border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size:  24px;
 }
 
 .container a:hover {
