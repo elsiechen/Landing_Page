@@ -57,9 +57,30 @@ ul {
     font-size: 36px;
     font-weight: bolder;
     color:  #1F2937;
+    margin-bottom: 30px;
 }
 .item img {
     border-radius: 10px;
 }
 
+.second {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 100px 80px 100px;
+    align-items: center;
+}
 
+
+.items {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
+.item {
+    max-width: 200px;
+}
+
+.item p {
+    text-align: center;
+}
