@@ -16,6 +16,7 @@
 .left ul, .right ul {
     display: flex;
     gap: 15px;
+    align-items: center;
 }
 
 li a {
