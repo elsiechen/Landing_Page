@@ -1,6 +1,8 @@
 # Landing_Page
 Landing Page is a single static webpage using flexbox to display items inside a page. It features common website as parts like navbar links, main content, sub content links, sign up button, information, and footer, etc.
 
+Take a look of this project [Landing_Page](https://elsiechen.github.io/Landing_Page/)
+
 # What’s contained in each file
 ## First: navbar and main content
 This section includes navbar which is split into left and right parts ,a sign up button and a big image.
