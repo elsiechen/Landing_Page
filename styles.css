@@ -169,3 +169,6 @@ footer {
     gap: 5px
 }
 
+.italic {
+    font-style: italic;
+}
